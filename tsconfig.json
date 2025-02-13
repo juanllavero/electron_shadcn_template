@@ -8,7 +8,7 @@
     "composite": true,
     "declaration": true,
     "forceConsistentCasingInFileNames": true,
-    "allowJs": false,
+    "allowJs": true,
     "esModuleInterop": true,
     "noImplicitAny": true,
     "sourceMap": true,
