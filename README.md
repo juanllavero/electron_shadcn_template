@@ -1,5 +1,7 @@
 # Electron + Vite + Shadcn/ui + Tailwind v4 Template
 
+Custom Electron template created based on [LuanRoger](https://github.com/LuanRoger/electron-shadcn)'s template
+
 ### Core
 
 - [Electron 34](https://www.electronjs.org)
